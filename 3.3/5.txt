@@ -1,0 +1,1 @@
+javac -cp program.jar:. b/A.java
